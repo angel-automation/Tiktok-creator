@@ -6,7 +6,7 @@
 - **Libraries Used:** Requests
 - **Features:**
   - TikTok API integration
-  - No shadowban
+  - No shadowban 
   - Captcha solver
   - Support for proxies
 
