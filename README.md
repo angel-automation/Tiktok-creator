@@ -9,7 +9,7 @@
   - No shadowban 
   - Captcha solver
   - Support for proxies
-
+ 
 ### Contact
 [ANGLE_DEV](https://t.me/ANGLE_DEV)
 
